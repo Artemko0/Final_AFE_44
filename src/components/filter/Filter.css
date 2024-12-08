@@ -1,0 +1,13 @@
+.Filter {
+    background-color: rgb(24, 83, 135);
+    padding: 1 rem;
+    display: flex;
+}
+
+.Filter input {
+    margin: 0 20px;
+}
+
+.Filter label {
+    margin: 20px;
+}
